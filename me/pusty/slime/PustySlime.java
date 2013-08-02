@@ -60,7 +60,7 @@ import cpw.mods.fml.common.registry.LanguageRegistry;
  */
 
 
-		@Mod(modid="PustySlime", name="PustySlime", version="0.3")
+		@Mod(modid="PustySlime", name="PustySlime", version="0.4")
 		@NetworkMod(clientSideRequired=true, serverSideRequired=false, 
 				channels={"PustySlime"}, packetHandler = SlimePacketHandler.class)
 		public class PustySlime

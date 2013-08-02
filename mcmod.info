@@ -1,0 +1,14 @@
+[
+{
+  "modid": "PustySlime",
+  "name": "Pusty's Slimes",
+  "description": "Adding some new Slimes to the Game",
+  "version": "0.4",
+  "mcversion": "1.6.2",
+  "authors": ["Pusty","DEADspy"],
+  "credits": "Pusty and DEADspy",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
